@@ -1,0 +1,8 @@
+﻿  坦克大战.cpp
+  正在生成代码
+e:\vs 项目\坦克大战\坦克大战\坦克大战.cpp(252): warning C4715: “enemyMove”: 不是所有的控件路径都返回值
+e:\vs 项目\坦克大战\坦克大战\坦克大战.cpp(171): warning C4715: “tankMove”: 不是所有的控件路径都返回值
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  坦克大战.vcxproj -> E:\vs 项目\坦克大战\Release\坦克大战.exe
+  坦克大战.vcxproj -> E:\vs 项目\坦克大战\Release\坦克大战.pdb (Full PDB)

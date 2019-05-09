@@ -1,0 +1,5 @@
+﻿  坦克大战.cpp
+e:\vs 项目\坦克大战\坦克大战\坦克大战.cpp(171): warning C4715: “tankMove”: 不是所有的控件路径都返回值
+e:\vs 项目\坦克大战\坦克大战\坦克大战.cpp(240): warning C4715: “enemyMove”: 不是所有的控件路径都返回值
+  坦克大战.vcxproj -> E:\vs 项目\坦克大战\Debug\坦克大战.exe
+  坦克大战.vcxproj -> E:\vs 项目\坦克大战\Debug\坦克大战.pdb (Partial PDB)
