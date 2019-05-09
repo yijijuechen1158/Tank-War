@@ -124,7 +124,7 @@ void outputPage2()
 			case 2:putimage(25 * j, 25 * i, &brick2); break;
 			case 3:
 				putimage(25 * j, 25 * i, &home); 
-				map[j][i] = 4;
+				map[i][j] = 4;
 				break;
 			}
 		}
